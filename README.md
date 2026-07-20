@@ -1,5 +1,5 @@
 <!-- Header Banner / Typing SVG -->
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm [KOPPISETTI MANOJ KUMAR] 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vcenter=true&width=500&lines=Mechatronics+%26+Cyber-Physical+Systems;Autonomous+Systems+%26+Robot+Perception;Control+Systems+%26+Estimation;Neural+Networks+%26+Computer+Vision" alt="Typing SVG" />
 </p>
