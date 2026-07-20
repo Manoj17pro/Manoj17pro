@@ -11,7 +11,7 @@
 - 🔭 **Focus Areas:** Autonomous Navigation, State Estimation (Kalman Filtering), Robot Perception, Control Theory, & Neural Networks
 - 🛠️ **Currently Building:** [Briefly describe a project, e.g., Autonomous Robot Simulation / Perception Pipeline]
 - 💬 **Ask me about:** Python, C++, ROS/ROS2, MATLAB/Simulink, State Estimation, & Robot Kinematics
-- 📫 **Reach out:** [your.email@domain.com](mailto:your.email@domain.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 **Reach out:** [your.email@domain.com](mailto:manojkumar19078@gmail.com) | linkedin.com/in/manoj-kumar-url
 
 ---
 
