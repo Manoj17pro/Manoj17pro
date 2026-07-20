@@ -28,26 +28,29 @@
 
 ### 🚀 Featured Projects
 
-#### 1. 📍 Sensor Fusion & State Estimation (Extended Kalman Filter)
+#### 1. 📍 [Sensor Fusion & State Estimation (EKF)](https://github.com/YOUR_USERNAME/kalman-filter-sensor-fusion) `COMPLETED`
 * **Stack:** `Python` • `NumPy` • `Matplotlib` • `PyCharm`
-* Implemented a custom **Extended Kalman Filter (EKF)** from scratch in Python to estimate non-linear vehicle trajectories and states by fusing noisy IMU and GPS sensor measurements.
+* Implemented a custom **Extended Kalman Filter (EKF)** in Python to estimate non-linear trajectories by fusing noisy IMU and GPS measurements.
 * Calculated real-time Jacobian matrices for state transition and measurement models.
-* Reduced position estimation error by over 60% compared to raw sensor readings under simulated Gaussian noise.
 
-#### 2. 🤖 Autonomous Mobile Robot Navigation (ROS 2 & SLAM)
-* **Stack:** `ROS 2` • `C++` • `Nav2` • `Gazebo` • `RViz`
-* Developed a 2D SLAM and autonomous navigation pipeline for a differential-drive robot in Gazebo simulation.
-* Integrated LiDAR-based costmaps and optimized dynamic obstacle avoidance using Nav2 path planning algorithms.
+---
 
-#### 3. 🧠 Neural Network Perception for Autonomous Driving
-* **Stack:** `Python` • `PyTorch` • `OpenCV` • `CUDA`
-* Trained a Convolutional Neural Network (CNN) for real-time lane detection and traffic sign classification.
-* Processed video frames at 30+ FPS with edge detection and perspective transforms for steering control feedback loops.
-
-#### 4. ⚡ Cyber-Physical System Dynamics & Control Model
+#### 2. ⚡ [Cyber-Physical System Dynamics & Control Model](https://github.com/YOUR_USERNAME/cps-dynamics-simulink) `COMPLETED`
 * **Stack:** `MATLAB` • `Simulink`
-* Designed and simulated a closed-loop dynamic control model incorporating charge/discharge gain blocks for energy-managed cyber-physical units.
+* Designed and simulated a closed-loop dynamic control model incorporating charge/discharge gain blocks.
 * Analyzed system stability, overshoot, and step responses using root locus and Bode plots.
+
+---
+
+#### 3. 🤖 Autonomous Mobile Robot Navigation (ROS 2 & SLAM) `IN PROGRESS` 🚧
+* **Stack:** `ROS 2` • `C++` • `Gazebo` • `RViz`
+* Currently setting up a 2D SLAM and autonomous navigation pipeline for a differential-drive robot in Gazebo simulation.
+
+---
+
+#### 4. 🧠 Neural Network Perception for Lane Detection `PLANNED` 📋
+* **Stack:** `Python` • `PyTorch` • `OpenCV`
+* Building a convolutional neural network (CNN) for real-time lane detection and steering control feedback loops.
 
 ---
 
